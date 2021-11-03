@@ -1,6 +1,7 @@
 <!-- [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev) -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)]https://mahabub-hossain-bd.github.io/
+[![Visits Badge](https://badges.pufler.dev/visits/mahabub-hossain-bd.github.io)](https://mahabub-hossain-bd.github.io)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/palashmahabub)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/palashmahabub)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://mahabub-hossain-86b24558/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/mahabub-hossain-bd)
@@ -16,11 +17,11 @@ Want to know more about me? [Check out my portfolio.](https://mahabub-hossain-bd
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid/)
+<!-- - [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid/)
 - [How to Unit Test an HTTP Service in Angular](https://braydoncoyer.dev/blog/how-to-unit-test-an-http-service-in-angular/)
 - [Use Named Exports over Default Exports in JavaScript](https://braydoncoyer.dev/blog/use-named-exports-over-default-exports-in-javascript/)
 - [The Gumball Machine: How To Quickly Identify Unit Test Cases](https://braydoncoyer.dev/blog/the-gumball-machine-how-to-quickly-identify-unit-test-cases/)
-- [How to Use the TailwindCSS Typography Plugin](https://braydoncoyer.dev/blog/how-to-use-the-tailwindcss-typography-plugin/)
+- [How to Use the TailwindCSS Typography Plugin](https://braydoncoyer.dev/blog/how-to-use-the-tailwindcss-typography-plugin/) -->
 <!-- BLOG-POST-LIST:END -->
 
 <br>
