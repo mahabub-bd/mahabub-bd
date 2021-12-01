@@ -2,7 +2,7 @@ Hey there 👋
 
 I’m Mahabub Hossain, a frontend developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://mahabub-bd.github.io)
+Want to know more about me? [Check out my portfolio.](https://mahabub.me)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palashmahabub@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahabub-bd)
