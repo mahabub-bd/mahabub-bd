@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mahabub-bd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+
 
 ### 🌱 About Me
 
@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [mahabub.me](https://mahabub.me).
 - 📫 How to reach me: **contact@mahabub.me**.
 
----
+
 
 ### 🏆 GitHub Trophies
 
@@ -26,7 +26,7 @@
   </a>
 </p>
 
----
+
 
 ### 🌐 Connect With Me:
 
@@ -48,7 +48,7 @@
   </a>
 </p>
 
----
+
 
 ### 💻 Languages and Tools:
 
@@ -112,7 +112,6 @@
   </a>
 </p>
 
----
 
 ### 📊 GitHub Stats:
 
