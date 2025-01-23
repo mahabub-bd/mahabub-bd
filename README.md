@@ -12,7 +12,7 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently learning **MERN Stack**.
+- 🔭 I’m currently learning **Nest JS**.
 - 👨‍💻 All of my projects are available at [mahabub.me](https://mahabub.me).
 - 📫 How to reach me: **contact@mahabub.me**.
 
