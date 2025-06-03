@@ -1,86 +1,62 @@
 # Hi there 👋, I'm Mahabub Hossain
 
-<p align="center">
-  <strong>Passionate Frontend Developer | Bangladesh</strong>
-</p>
+Passionate Frontend Developer from Bangladesh 🇧🇩
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahabub-bd&label=Profile%20views&color=0e75b6&style=flat" alt="mahabub-bd" />
-</p>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://mahabub.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hossain-86b24558)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/palashmahabub)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/mahabub-bd)
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🌱 Currently expanding my skills in **NestJS** and **PostgreSQL**
 - 💼 Portfolio: [mahabub.me](https://mahabub.me)
-- 📫 Reach me at: **contact@mahabub.me**
 - 🔥 Passionate about building responsive, accessible, and performant web applications
+- 📍 Based in Bangladesh
+- 📫 Reach me at: contact@mahabub.me
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahabub-bd&margin-w=15&theme=dracula" alt="mahabub-bd" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://codepen.io/mahabub-bd" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="CodePen" width="32" height="32"/>
-  </a>
-  <a href="https://twitter.com/palashmahabub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/>
-  </a>
-  <a href="https://linkedin.com/in/mahabub-hossain-86b24558" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
-  </a>
-  <a href="https://fb.com/palashmahabub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="32" height="32"/>
-  </a>
-  <a href="https://instagram.com/mahabub-hossain" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="32" height="32"/>
-  </a>
-</p>
-
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="40" height="40"/>
-</p>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-### Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
-</p>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahabub-bd&show_icons=true&theme=radical" alt="Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahabub-bd&theme=dark" alt="Streak" width="48%"/>
-</p>
+| ![Mahabub's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahabub-bd&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabub-bd&layout=compact&theme=radical) |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabub-bd&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
+## 🏆 Achievements
+
+- 🏅 **Contributor** - Active open source contributor
+- ⭐ **Stargazer** - Earned stars on repositories
+- 🍴 **Collaborator** - Worked on collaborative projects
+- 💻 **Developer** - Passionate about coding
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahabub-bd&color=blueviolet)
+
+---
+
+⭐ From [Mahabub Hossain](https://github.com/mahabub-bd)
