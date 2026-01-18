@@ -5,8 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hossain-86b24558)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/palashmahabub)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/mahabub-bd)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mahabub-bd)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/mahabub-bd)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@palashmahabub)
 
 ## 👨‍💻 About Me
 
@@ -15,7 +14,7 @@ Accomplished full-stack developer with **4+ years of experience** architecting a
 - 🔭 Currently working at **IT Consultants PLC (Qcash)** as Software Engineer
 - 🌱 Passionate about **Fintech, E-commerce & Enterprise Systems**
 - 💼 Portfolio: [mahabub.me](https://mahabub.me)
-- 📫 Reach me at: **[email protected]**
+- 📫 Reach me at: contact@mahabub.me
 - 📍 Based in **Dhaka, Bangladesh**
 - 🎯 Expertise in writing maintainable code and mentoring teams
 
