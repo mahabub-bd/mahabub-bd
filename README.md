@@ -70,7 +70,7 @@ Accomplished full-stack developer with **4+ years of experience** architecting a
 
 ## 💼 Professional Experience
 
-### 🏢 Software Engineer | IT Consultants PLC (Qcash)
+### 🏢 Support Engineer | IT Consultants PLC (Qcash)
 **Feb 2021 – Present** | Dhaka, Bangladesh
 - Develop responsive, high-performance web applications using React.js and Next.js
 - Design scalable, reusable frontend components with clean, maintainable architecture
