@@ -11,7 +11,7 @@
 
 Accomplished full-stack developer with **4+ years of experience** architecting and deploying scalable web and mobile applications. I specialize in the JavaScript/TypeScript ecosystem and Native Android development with Java, with deep expertise in system design, clean architecture, and optimizing complex databases.
 
-- 🔭 Currently working at **IT Consultants PLC (Qcash)** as Software Engineer
+- 🔭 Currently working at **IT Consultants PLC (Qcash)**
 - 🌱 Passionate about **Fintech, E-commerce & Enterprise Systems**
 - 💼 Portfolio: [mahabub.me](https://mahabub.me)
 - 📫 Reach me at: contact@mahabub.me
