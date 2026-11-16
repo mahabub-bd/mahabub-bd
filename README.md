@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Mahabub Hossain
-### Full-Stack Developer from Bangladesh 🇧🇩
+### Javascript Developer from Bangladesh 🇧🇩
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://mahabub.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabub-hossain-86b24558)
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Accomplished full-stack developer with **4+ years of experience** architecting and deploying scalable web and mobile applications. I specialize in the JavaScript/TypeScript ecosystem and Native Android development with Java, with deep expertise in system design, clean architecture, and optimizing complex databases.
+Accomplished javascript developer with **4+ years of experience** architecting and deploying scalable web and mobile applications. I specialize in the JavaScript/TypeScript ecosystem and Native Android development with Java, with deep expertise in system design, clean architecture, and optimizing complex databases.
 
 - 🔭 Currently working at **IT Consultants PLC (Qcash)**
 - 🌱 Passionate about **Fintech, E-commerce & Enterprise Systems**
