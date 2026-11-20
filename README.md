@@ -13,8 +13,8 @@ Accomplished javascript developer with **4+ years of experience** architecting a
 
 - 🔭 Currently working at **IT Consultants PLC (Qcash)**
 - 🌱 Passionate about **Fintech, E-commerce & Enterprise Systems**
-- 💼 Portfolio: [mahabub.me](https://mahabub.me)
-- 📫 Reach me at: contact@mahabub.me
+- 💼 Portfolio: [mahabub.me](https://mahabub.bd)
+- 📫 Reach me at: contact@mahabub.bd
 - 📍 Based in **Dhaka, Bangladesh**
 - 🎯 Expertise in writing maintainable code and mentoring teams
 
